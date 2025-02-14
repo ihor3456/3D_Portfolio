@@ -18,6 +18,7 @@ import {
   carrent,
   jobit,
   tripguide,
+  forkio,
   threejs,
 } from "../assets";
 
@@ -169,7 +170,7 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/ihor3456/SnapTalk.io",
+    source_code_link: "https://ihor3456.github.io/SnapTalk.io/",
   },
   {
     name: "Medical",
@@ -211,7 +212,32 @@ const projects = [
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/budwellness/budwellness",
+    source_code_link: "https://budwellness.dan-it.com.ua/",
+  },
+  {
+    name: "Forkio",
+    description:
+      "A project website developed as a step-task for DAN-IT, utilizing HTML5, CSS3, and JavaScript (ES6). The platform features a responsive design with a structured layout and interactive components.  ",
+    tags: [
+      {
+        name: "html",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "css",
+        color: "green-text-gradient",
+      },
+      {
+        name: "javascript",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "sass",
+        color: "blue-text-gradient",
+      },
+    ],
+    image: forkio,
+    source_code_link: "https://ihor3456.gitlab.io/step_project_forkio",
   },
 ];
 

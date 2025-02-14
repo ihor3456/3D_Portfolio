@@ -28,6 +28,7 @@ import danit from "./company/danit.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import forkio from "./forkio.png";
 
 export {
   logo,
@@ -55,4 +56,5 @@ export {
   carrent,
   jobit,
   tripguide,
+  forkio,
 };
